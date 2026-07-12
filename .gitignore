@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# IDEs and editors
+.vscode/
+
+# Environmental variables / Secrets
+.env
+checkpoint/
+*.pth
